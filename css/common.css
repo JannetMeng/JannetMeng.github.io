@@ -1,0 +1,26 @@
+a {
+	text-decoration:none;
+}
+.back {
+	position: absolute;
+	top: 50px;
+	left: 50px;
+	font-size: 40px;
+	color: #DEB887;
+}
+.back a {
+	color: #DEB887;
+	text-shadow:#DEB887 7px 7px 13px;
+}
+.title {
+	margin-left: 200px;
+}
+.bg-music {
+	position: absolute;
+	top: 10px;
+	right: 80px;
+	width: 300px;
+}
+.bg-music img {
+	width: 100%;
+}
